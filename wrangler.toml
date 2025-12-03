@@ -1,0 +1,10 @@
+name = "famapp-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+GMAIL_CLIENT_ID_SEC = ""
+GMAIL_CLIENT_SECRET_SEC = ""
+GMAIL_REFRESH_TOKEN_SEC = ""
+WEBHOOK_URL_SEC = ""
+PROJECT_SECRET_SEC = ""
